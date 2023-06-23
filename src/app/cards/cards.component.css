@@ -1,8 +1,12 @@
 .card img {
-  width: 15rem;
+  width: 25rem;
+  height: 30rem;
+  object-fit: cover;
 }
 .card {
   display: inline-block;
-  background-color: aqua;
+  background-color: #17191a;
   padding: 1.5rem;
+  margin: 2rem;
+  color: aliceblue;
 }
